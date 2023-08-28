@@ -1,0 +1,9 @@
+
+# HTID:22129594: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:22129594:
+<IfModule mod_mime.c>
+  AddType application/javascript .js
+</IfModule>
+
+
